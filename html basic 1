@@ -1,11 +1,13 @@
 <html>
 <head>
 <title>Sample Output:
-CPU</title>
+<b>CPU</b>
+</title>
 </head>
 <body>
-<p>CPU stands for Central Processing Unit.</p>
-It is the portion of a computer system that carries out the instructions of a computer program.
-It carries out each instruction of the program in sequence, to perform the basic arithmetical,logical,and input/output operations of the system.
+<p>
+<b>CPU</b>stands for Central Processing Unit.</p>
+<p>It is the portion of a computer system that carries out the instructions of a computer program</P>
+<p></p>It carries out each instruction of the program in sequence, to perform the basic arithmetical,logical,and input/output operations of the system</p>
 </body>
 </html>
